@@ -1,0 +1,31 @@
+_repo: Fortunata-y-Jacintados-historias-de-casadas_17013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Perez Galdos, Benito
+    - Galdós, Benito Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2005-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17013'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Married women -- Fiction'
+title: 'Fortunata y Jacinta: dos historias de casadas'
+url: http://www.gutenberg.org/ebooks/17013
